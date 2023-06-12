@@ -1,0 +1,13 @@
+# Logs
+logs/
+*.log
+
+/coverage/
+/lib/
+node_modules/
+*.tsbuildinfo
+
+# Editor directories and files
+.DS_Store
+*~
+*.orig
